@@ -143,11 +143,11 @@ button {
   cursor: pointer;
 }
 
-/* #histories {
+#histories {
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(clamp(30%, (400px - 100vw)*1000, 100%),1fr));
   grid-gap:5px;
-} */
+}
 
 .card {
   width: 100%;
